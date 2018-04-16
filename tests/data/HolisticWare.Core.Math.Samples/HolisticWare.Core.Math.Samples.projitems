@@ -51,5 +51,11 @@
     <Content Include="$(MSBuildThisFileDirectory)Xtras-SampleData\Rand_Samp6_50.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Xtras-SampleData\Basketball.Commented.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)Xtras-SampleData\Judo.Commented.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 </Project>
