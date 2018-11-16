@@ -47,37 +47,37 @@ namespace UnitTests.Core.Math.Statistics.Descriptive.Sequential.Sync
             set;
         }
 
-        public double NEB
+        public int NEB
         {
             get;
             set;
         }
 
-        public double SKL
+        public int SKL
         {
             get;
             set;
         }
 
-        public double TRB
+        public int TRB
         {
             get;
             set;
         }
 
-        public double CUC
+        public int CUC
         {
             get;
             set;
         }
 
-        public double SDM
+        public int SDM
         {
             get;
             set;
         }
 
-        public double BML
+        public int BML
         {
             get;
             set;
