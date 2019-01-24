@@ -27,7 +27,7 @@
 // */
 using System;
 
-namespace UnitTests.Core.Math.Statistics.Descriptive.Sequential.Sync
+namespace HolisticWare.Core.SampleData
 {
     public class BasketballTeamData
     {
