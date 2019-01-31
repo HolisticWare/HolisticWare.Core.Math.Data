@@ -7,6 +7,8 @@
   <ItemGroup>
     <Folder Include="Xtras-BigData\" />
     <Folder Include="Xtras-SampleData\" />
+    <Folder Include="CSV\" />
+    <Folder Include="CSV\Data\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Xtras-BigData\Rand_Samp_BigData_01.csv">
@@ -63,5 +65,231 @@
     <Content Include="Xtras-SampleData\readme.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="CSV\Data\addresses.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\airtravel.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\biostats.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2FamilyRelationshipConnectorSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2GroupConnectorSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2ImportCalEventSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2ImportFamRelSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2ImportGroupsSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2ImportSchoolSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2ImportStaffSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2ImportUsersSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2MassAssignUsersSample_.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2MembershipConnectorSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2PKMSampleImport.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2SectionConnectorSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2SectionRobotSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2UserConnectorSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\C2User-GroupMembershipConnectorSample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\cities.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\crash_catalonia.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\deniro.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\example.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\faithful.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\FL_insurance_sample.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\ford_escort.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\freshman_kgs.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\freshman_lbs.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\grades.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\HalfHourParentTeacherConferenceSampleImportFile.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\homes.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\hooke.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\hurricanes.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\hw_200.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\hw_25000.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\lead_shot.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\letter_frequency.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\mlb_players.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\mlb_teams_2012.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\news_decline.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\nile.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\OneHourParentTeacherConferenceSampleImportFile.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\oscar_age_female.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\oscar_age_male.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\SacramentocrimeJanuary2006.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\Sacramentorealestatetransactions.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\SalesJan2009.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\SampleCSVFile_119kb.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\snakes_count_10.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\snakes_count_100.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\snakes_count_1000.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\snakes_count_10000.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\tally_cab.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\taxables.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\TechCrunchcontinentalUSA.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\trees.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Data\zillow.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="CSV\Data\addresses.csv" />
+    <None Remove="CSV\Data\airtravel.csv" />
+    <None Remove="CSV\Data\biostats.csv" />
+    <None Remove="CSV\Data\C2FamilyRelationshipConnectorSample.csv" />
+    <None Remove="CSV\Data\C2GroupConnectorSample.csv" />
+    <None Remove="CSV\Data\C2ImportCalEventSample.csv" />
+    <None Remove="CSV\Data\C2ImportFamRelSample.csv" />
+    <None Remove="CSV\Data\C2ImportGroupsSample.csv" />
+    <None Remove="CSV\Data\C2ImportSchoolSample.csv" />
+    <None Remove="CSV\Data\C2ImportStaffSample.csv" />
+    <None Remove="CSV\Data\C2ImportUsersSample.csv" />
+    <None Remove="CSV\Data\C2MassAssignUsersSample_.csv" />
+    <None Remove="CSV\Data\C2MembershipConnectorSample.csv" />
+    <None Remove="CSV\Data\C2PKMSampleImport.csv" />
+    <None Remove="CSV\Data\C2SectionConnectorSample.csv" />
+    <None Remove="CSV\Data\C2SectionRobotSample.csv" />
+    <None Remove="CSV\Data\C2UserConnectorSample.csv" />
+    <None Remove="CSV\Data\C2User-GroupMembershipConnectorSample.csv" />
+    <None Remove="CSV\Data\cities.csv" />
+    <None Remove="CSV\Data\crash_catalonia.csv" />
+    <None Remove="CSV\Data\deniro.csv" />
+    <None Remove="CSV\Data\example.csv" />
+    <None Remove="CSV\Data\faithful.csv" />
+    <None Remove="CSV\Data\FL_insurance_sample.csv" />
+    <None Remove="CSV\Data\ford_escort.csv" />
+    <None Remove="CSV\Data\freshman_kgs.csv" />
+    <None Remove="CSV\Data\freshman_lbs.csv" />
+    <None Remove="CSV\Data\grades.csv" />
+    <None Remove="CSV\Data\HalfHourParentTeacherConferenceSampleImportFile.csv" />
+    <None Remove="CSV\Data\homes.csv" />
+    <None Remove="CSV\Data\hooke.csv" />
+    <None Remove="CSV\Data\hurricanes.csv" />
+    <None Remove="CSV\Data\hw_200.csv" />
+    <None Remove="CSV\Data\hw_25000.csv" />
+    <None Remove="CSV\Data\lead_shot.csv" />
+    <None Remove="CSV\Data\letter_frequency.csv" />
+    <None Remove="CSV\Data\mlb_players.csv" />
+    <None Remove="CSV\Data\mlb_teams_2012.csv" />
+    <None Remove="CSV\Data\news_decline.csv" />
+    <None Remove="CSV\Data\nile.csv" />
+    <None Remove="CSV\Data\OneHourParentTeacherConferenceSampleImportFile.csv" />
+    <None Remove="CSV\Data\oscar_age_female.csv" />
+    <None Remove="CSV\Data\oscar_age_male.csv" />
+    <None Remove="CSV\Data\SacramentocrimeJanuary2006.csv" />
+    <None Remove="CSV\Data\Sacramentorealestatetransactions.csv" />
+    <None Remove="CSV\Data\SalesJan2009.csv" />
+    <None Remove="CSV\Data\SampleCSVFile_119kb.csv" />
+    <None Remove="CSV\Data\snakes_count_10.csv" />
+    <None Remove="CSV\Data\snakes_count_100.csv" />
+    <None Remove="CSV\Data\snakes_count_1000.csv" />
+    <None Remove="CSV\Data\snakes_count_10000.csv" />
+    <None Remove="CSV\Data\tally_cab.csv" />
+    <None Remove="CSV\Data\taxables.csv" />
+    <None Remove="CSV\Data\TechCrunchcontinentalUSA.csv" />
+    <None Remove="CSV\Data\trees.csv" />
+    <None Remove="CSV\Data\zillow.csv" />
   </ItemGroup>
 </Project>
