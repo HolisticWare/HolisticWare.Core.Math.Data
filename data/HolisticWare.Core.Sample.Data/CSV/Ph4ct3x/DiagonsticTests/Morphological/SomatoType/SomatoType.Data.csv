@@ -1,4 +1,4 @@
-"","Height","Weight","Humerus_Breadth","Femur_Breadth","Arm_Circumference","Calf_Circumference","Subscapular_Skinfold","Suprailiac_Skinfold","Supraspinale_Skinfold","Medial_Calf_Skinfold"
+"Id","Height","Mass","BreadthHumerus","BreadthFemur","GirthArmUpper","GirthCalfStanding","SkinfoldSubscapular","SkinfoldTriceps","SkinfoldSupraspinale","SkinfoldMedialCalf"
 "1",171.25,67.41,6.81,8.31,25.16,27.57,5.95,11.7,14.08,12.78
 "2",162.82,55.31,6.91,8.95,25.66,34.76,9.49,1.61,8.02,18.36
 "3",166.21,59.64,6.81,8.98,30.92,44.68,9.74,7.9,6.84,7.26
