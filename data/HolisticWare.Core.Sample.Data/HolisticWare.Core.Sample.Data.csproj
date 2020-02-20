@@ -21,6 +21,9 @@
     <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.results_ectomorph_range_error.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.Step01.Regression.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -310,6 +313,7 @@
     <None Remove="CSV\diverse\faithful.csv" />
     <None Remove="CSV\diverse\snakes_count_10.csv" />
     <None Remove="CSV\diverse\nile.csv" />
+    <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.Step01.Regression.csv" />
     <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019.csv" />
     <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019_10.csv" />
     <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Sampled_10.csv" />
