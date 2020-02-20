@@ -7,9 +7,29 @@
   <ItemGroup>
     <Folder Include="Xtras-BigData\" />
     <Folder Include="Xtras-SampleData\" />
-    <Folder Include="CSV\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.results.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.results_ectomorph_extreme.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data01\SomatoType.Data.results_ectomorph_range_error.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019_10.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Sampled_10.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Xtras-BigData\Rand_Samp_BigData_01.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -62,9 +82,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Xtras-SampleData\readme.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\SomatoType.Data.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="CSV\diverse\ford_escort.csv">
@@ -237,7 +254,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\SomatoType.Data.csv" />
     <None Remove="CSV\diverse\ford_escort.csv" />
     <None Remove="CSV\diverse\addresses.csv" />
     <None Remove="CSV\diverse\C2MembershipConnectorSample.csv" />
@@ -294,5 +310,8 @@
     <None Remove="CSV\diverse\faithful.csv" />
     <None Remove="CSV\diverse\snakes_count_10.csv" />
     <None Remove="CSV\diverse\nile.csv" />
+    <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019.csv" />
+    <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Antro_KIF_2019_10.csv" />
+    <None Remove="CSV\Ph4ct3x\DiagonsticTests\Morphological\SomatoType\data02\Sampled_10.csv" />
   </ItemGroup>
 </Project>
